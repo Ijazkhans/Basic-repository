@@ -8,5 +8,5 @@ def devide(x,y):
    return x/y
    def minus(x,y):
     pass
-def square(x,y):
-   return x**y
+def square(x,y,z):
+   return x**y +x**z
